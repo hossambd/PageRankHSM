@@ -1,0 +1,10 @@
+
+===demarrer
+. venv/bin/activate
+export FLASK_DEBUG=true
+flask run
+
+==installer==
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt

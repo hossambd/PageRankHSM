@@ -1,0 +1,9 @@
+*~
+*\.un~
+*.pyc
+data/*
+venv/*
+tags
+temp.sv
+notebook/huge_graph.txt
+notebook/\.*
